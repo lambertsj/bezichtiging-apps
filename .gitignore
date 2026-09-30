@@ -1,0 +1,25 @@
+.DS_Store
+*.hprof
+
+# Android
+android/build/
+android/app/build/
+android/.gradle/
+android/.idea/
+android/.kotlin/
+android/local.properties
+*.apk
+*.aab
+*.dex
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# Sleutels en omgevingsvariabelen: nooit committen
+.env
+.env.*
+*.p8
+*.jks
+*.keystore
