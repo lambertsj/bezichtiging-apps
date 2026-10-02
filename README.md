@@ -2,6 +2,8 @@
 
 Checklist-app voor woningbezichtigingen, voor iOS en Android. Meer info op [bezichtiging.app](https://bezichtiging.app).
 
+Onderdeel van [BasisApps](https://basisapps.nl), het initiatief voor eerlijke apps die gewoon gratis horen te zijn: geen abonnementen, geen advertenties en geen tracking. In de app stores heet de app **Basis: Bezichtiging checklist**.
+
 ```
 ios/       SwiftUI-app (open ios/Bezichtiging.xcodeproj in Xcode)
 android/   Jetpack Compose-app (open android/ in Android Studio)
